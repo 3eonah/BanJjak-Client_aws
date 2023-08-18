@@ -1,0 +1,50 @@
+#l_title {
+    display : inline-block;
+    margin: 0px;
+    margin-bottom : 10px;
+    width : 100%;
+    height : 48px;
+    padding : 15px 10px 0px;
+    text-align : center;
+    font-size : 15px;
+    font-weight : bold;
+    color : #00AC78;
+    border-bottom : 1px solid #00AC78;
+}
+
+#l_adoption {
+    width : 360px;
+    height : 150px;
+    margin : 15px;
+    font-size : 16px;
+    font-weight : bold;
+}
+
+#l_missing {
+    width : 360px;
+    height : 150px;
+    margin : 15px;
+    font-size : 16px;
+    font-weight : bold;
+}
+
+#l_protection {
+    width : 360px;
+    height : 150px;
+    
+    margin : 15px;
+    font-size : 16px;
+    font-weight : bold;
+}
+
+#l_review {
+    width : 360px;
+    height : 150px;
+    margin : 15px;
+    font-size : 16px;
+    font-weight : bold;
+}
+
+#l_hr {
+    border : 1px solid #f4f4f4;
+}

@@ -1,0 +1,96 @@
+/* Guidance.js */
+#g_selfcheck {
+    display : inline-block;
+    margin: 0px;
+    width : 194px;
+    height : 47px;
+    padding : 15px 10px 0px;
+    text-align : center;
+    font-size : 15px;
+    font-weight : bold;
+    color : #00AC78;
+    border-bottom : 1px solid #00AC78;
+}
+
+#g_agreement {
+    display : inline-block;
+    margin : 0px;
+    width : 190px;
+    padding : 16px 0px;
+    text-align : center;
+    font-size : 15px;
+    font-weight : bold;
+    color : #828282;
+    border-bottom : 1px solid #ECECEC;
+}
+
+/* SelfCheck.js */
+
+#gs_banner {
+    margin : 25px 0px 0px 15px;
+}
+
+#gs_form1{
+    color : #3E3E3E;
+    font-size : 14px;
+    margin-left : 25px;
+    line-height : 20px;
+}
+
+
+#gs_btn {
+    width : 340px;
+    height : 50px;
+    border : none;
+    border-radius : 20px;
+    color : #FFFFFF;
+    font-size : 18px;
+    font-weight : bold;
+    background-color : #00AC78;
+    margin-top : 20px;
+    margin-left : 5px;
+}
+
+/* Agreement.js */
+
+#ga_banner {
+    margin : 25px 0px 0px 15px;
+}
+
+#ga_p1 {
+    font-size : 13px;
+    color : #828282;
+    text-align : center;
+    margin-top : 5px;
+}
+
+#ga_form1{
+    color : #3E3E3E;
+    font-size : 14px;
+    margin-left : 25px;
+    line-height : 20px;
+    margin-top : 10px;
+}
+
+#ga_btn {
+    width : 340px;
+    height : 50px;
+    border : none;
+    border-radius : 20px;
+    color : #FFFFFF;
+    font-size : 18px;
+    font-weight : bold;
+    background-color : #00AC78;
+    margin-top : 20px;
+    margin-left : 5px;
+}
+
+#ga_span1 {
+    font-size : 11px;
+}
+
+#ga_span2 {
+    font-size : 17px;
+    color : #3E3E3E;
+    font-weight : bold;
+}
